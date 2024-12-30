@@ -1,7 +1,5 @@
 ### Hey there! 👋
 
-To have more info about me, check out [my website](https://clem.nextmiracle.eu/about-me/)!
-
 ![Clément's GitHub stats](https://github-readme-stats.vercel.app/api?username=clempera&count_private=true&show_icons=true&theme=gruvbox)
 
 

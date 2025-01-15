@@ -2,6 +2,14 @@
 
 ![Clément's GitHub stats](https://github-readme-stats.vercel.app/api?username=clempera&count_private=true&show_icons=true&theme=gruvbox)
 
+Projects I made: 
+- [Pico Smart LED](https://github.com/ClemPera/pico_smart_led)
+- [Android Toolbox App](https://github.com/ClemPera/TTime)
+- [Unity Game "Defense Project" ](https://github.com/ClemPera/Defense-project)
+- [Java naval battle game (using JavaFX)](https://github.com/ClemPera/BatailleNavale-JavaFx)
+- [Rust GUI Todo List](https://github.com/ClemPera/Simple-Todo-List-GUI)
+- [Linux battery notifier](https://github.com/ClemPera/Battery-life-saver-Linux-X-80-20-Or-40)
+- [Arduino ultrasonic detector](https://github.com/ClemPera/Arduino-ultrasonic-led)
 
 <!--
 **ClemPera/clempera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

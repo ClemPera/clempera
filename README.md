@@ -1,8 +1,9 @@
-### Hey there! 👋
-
 ![Clément's GitHub stats](https://github-readme-stats.vercel.app/api?username=clempera&count_private=true&show_icons=true&theme=gruvbox)
 
-Projects I made: 
+## My ongoing projet(s):
+- [flowhi (task tracking)](https://github.com/ClemPera/flowhi)
+
+## Projects completed/paused/abandoned: 
 - [Pico Smart LED](https://github.com/ClemPera/pico_smart_led)
 - [Android Toolbox App](https://github.com/ClemPera/TTime)
 - [Unity Game "Defense Project" ](https://github.com/ClemPera/Defense-project)

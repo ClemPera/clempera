@@ -5,6 +5,7 @@
 
 ## Projects completed/paused/abandoned: 
 - [Pico Smart LED](https://github.com/ClemPera/pico_smart_led)
+- [E-paper Quotes](https://github.com/ClemPera/Quotes-e-paper-PicoW)
 - [Android Toolbox App](https://github.com/ClemPera/TTime)
 - [Unity Game "Defense Project" ](https://github.com/ClemPera/Defense-project)
 - [Java naval battle game (using JavaFX)](https://github.com/ClemPera/BatailleNavale-JavaFx)

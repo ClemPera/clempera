@@ -1,6 +1,6 @@
 ![Clément's GitHub stats](https://github-readme-stats.vercel.app/api?username=clempera&count_private=true&show_icons=true&theme=gruvbox)
 
-Please see my portefolio website : https://clem.nextmiracle.eu/
+Please see my portfolio website : https://clem.nextmiracle.eu/
 
 ## My ongoing projet(s):
 - [flowhi (task tracking)](https://github.com/ClemPera/flowhi)

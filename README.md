@@ -4,6 +4,7 @@ Please see my portfolio website : https://clem.nextmiracle.eu/
 
 ## My ongoing projet(s):
 - [flowhi (task tracking)](https://github.com/ClemPera/flowhi)
+- [Rust crate for ESP32 DHT reader](https://github.com/ClemPera/esp-idf-dht)
 
 ## Projects completed/paused/abandoned: 
 - [Pico Smart LED](https://github.com/ClemPera/pico_smart_led)

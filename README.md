@@ -5,8 +5,8 @@ Please see my portfolio website : https://clem.nextmiracle.eu/
 
 
 ## Projects finished: 
-- [Rust crate for ESP32 DHT reader](https://github.com/ClemPera/esp-idf-dht)
 - [Easily synchronise and rename a batch of subtitles with video files](https://github.com/ClemPera/SubSync)
+- [Rust crate for ESP32 DHT reader](https://github.com/ClemPera/esp-idf-dht)
 - [flowhi (task tracking)](https://github.com/ClemPera/flowhi)
 - [Pico Smart LED](https://github.com/ClemPera/pico_smart_led)
 - [E-paper Quotes](https://github.com/ClemPera/Quotes-e-paper-PicoW)
